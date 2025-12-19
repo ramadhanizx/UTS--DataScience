@@ -4,7 +4,7 @@
 ## 👤 Informasi
 - **Nama:** Imam Ramadhani
 - **Repo:** [ https://github.com/ramadhanizx/UTS--DataScience.git  ](https://github.com/ramadhanizx/UTS--DataScience.git)
-- **Video:** [Masukkan link video demo jika ada]  
+- **Video:** [https://youtu.be/-53fj0S8Uhs](https://youtu.be/-53fj0S8Uhs)  
 
 ---
 
