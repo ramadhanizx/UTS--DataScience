@@ -3,12 +3,12 @@
 **Judul Proyek:**  
 [(Contoh: "Klasifikasi Penyakit Daun Menggunakan CNN", "Prediksi Harga Rumah dengan Machine Learning", "Analisis Sentimen Ulasan Produk")]
 
-**Nama Mahasiswa:** Imam Ramandahni
-**NIM:** [233307052]  
-**Program Studi:** [Teknologi Informasi]  
-**Mata Kuliah:** [Teknologi Informasi]  
-**Dosen Pengampu:** [Gus Nanang Syaifuddiin]  
-**Tahun Akademik:** [Teknologi Informasi]
+**Nama Mahasiswa:** [Nama Lengkap]  
+**NIM:** [Nomor Induk Mahasiswa]  
+**Program Studi:** [Teknologi Informasi / Rekayasa Perangkat Lunak]  
+**Mata Kuliah:** [Nama Mata Kuliah]  
+**Dosen Pengampu:** [Nama Dosen]  
+**Tahun Akademik:** [Tahun/Semester]
 **Link GitHub Repository:** [URL Repository]
 **Link Video Pembahasan:** [URL Repository]
 
