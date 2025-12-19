@@ -3,7 +3,7 @@
 **Judul Proyek:**  
 [(Contoh: "Klasifikasi Penyakit Daun Menggunakan CNN", "Prediksi Harga Rumah dengan Machine Learning", "Analisis Sentimen Ulasan Produk")]
 
-**Nama Mahasiswa:** [Imam Ramandahni]  
+**Nama Mahasiswa:** Imam Ramandahni
 **NIM:** [233307052]  
 **Program Studi:** [Teknologi Informasi]  
 **Mata Kuliah:** [Teknologi Informasi]  
