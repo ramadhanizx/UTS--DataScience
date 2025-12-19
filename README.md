@@ -2,7 +2,7 @@
 *(Isi judul proyek Anda di sini)*
 
 ## 👤 Informasi
-- **Nama:** [...]  
+- **Nama:** Imam Ramadhani
 - **Repo:** [...]  
 - **Video:** [...]  
 
