@@ -161,28 +161,24 @@ UAS-DATASCIENCE/
 
 # 9. 🔁 Reproducibility
 
-### 9.1 GitHub Repository
-**Link Repository:** [Masukkan URL GitHub Anda]  
+### GitHub Repository
+- Link Repository: [Masukkan URL GitHub]  
+- Harus berisi: Notebook/Script, requirements.txt, README.md, models/, images/, .gitignore  
 
-**Repository harus berisi:**  
-- ✅ Notebook Jupyter/Colab dengan hasil running  
-- ✅ Script Python (jika ada)  
-- ✅ requirements.txt  
-- ✅ README.md yang informatif  
-- ✅ Folder structure terorganisir (`images/`, `models/`, dsb.)  
-- ✅ .gitignore (tanpa upload dataset besar)  
+### Environment & Dependencies
+**Python Version:** 3.10  
 
-### 9.2 Environment & Dependencies
-- **Python Version:** 3.10  
-- **Libraries & Versions:**
-- numpy==1.24.3
-- pandas==2.0.3
-- scikit-learn==1.3.0
-- matplotlib==3.7.2
-- seaborn==0.12.2
-- tensorflow==2.14.0
-- joblib==1.3.2
+**Libraries & Versions:**
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+matplotlib==3.7.2
+seaborn==0.12.2
+tensorflow==2.14.0
+joblib==1.3.2
 
-- Semua notebook dan script dapat dijalankan ulang untuk reproduksi hasil  
+diff
+Copy code
 
----
+- Notebook dapat dijalankan ulang untuk menghasilkan hasil yang sama.  
+- Dataset kecil memungkinkan training cepat dan evaluasi reproducible. 
