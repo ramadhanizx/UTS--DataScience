@@ -3,7 +3,7 @@
 
 ## 👤 Informasi
 - **Nama:** Imam Ramadhani
-- **Repo:** [Masukkan URL GitHub Anda]  
+- **Repo:** [[https://github.com/ramadhanizx/UTS--DataScience.git]  ](https://github.com/ramadhanizx/UTS--DataScience.git)
 - **Video:** [Masukkan link video demo jika ada]  
 
 ---
