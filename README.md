@@ -27,7 +27,40 @@
 - Membangun dan mengevaluasi model ML dan DL untuk klasifikasi biner  
 - Membandingkan performa ketiga model dan menentukan model terbaik  
 
----
+## 📁 Struktur Folder
+```
+UAS-DATASCIENCE/
+│
+├── data/
+│   ├── .gitkeep
+│   └── Ballon.data
+│
+├── images/
+│   ├── .gitkeep
+│   ├── act_vs_inflated.png
+│   ├── color_vs_inflated.png
+│   ├── correlation_heatmap.png
+│   ├── distribusi_label.png
+│   ├── dl_training_history.png
+│   ├── lr_confusion_matrix.png
+│   ├── rf_confusion_matrix.png
+│   └── rf_feature_importance.png
+│
+├── models/
+│   └── (kosong atau nanti model disimpan di sini)
+│
+├── notebooks/
+│   ├── .gitkeep
+│   └── uas-balloons.ipynb
+│
+├── Checklist Submit.md
+├── image.png
+├── Laporan Proyek Machine Learning.md
+├── LICENSE
+└── README.md
+
+```
+
 
 # 3. 📊 Dataset
 - **Sumber:** [Dataset Balloons (synthetic dataset)  ](https://archive.ics.uci.edu/dataset/13/balloons)
